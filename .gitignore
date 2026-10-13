@@ -1,0 +1,8 @@
+# IDE
+.idea/
+.vscode/
+*.sln.DotSettings.user
+
+# Systemy operacyjne
+.DS_Store
+Thumbs.db
