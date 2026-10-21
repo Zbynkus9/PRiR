@@ -1,0 +1,14 @@
+/home/jakub/RiderProjects/ParallelLab1/ParallelLab1/bin/Debug/net8.0/ParallelLab1
+/home/jakub/RiderProjects/ParallelLab1/ParallelLab1/bin/Debug/net8.0/ParallelLab1.deps.json
+/home/jakub/RiderProjects/ParallelLab1/ParallelLab1/bin/Debug/net8.0/ParallelLab1.runtimeconfig.json
+/home/jakub/RiderProjects/ParallelLab1/ParallelLab1/bin/Debug/net8.0/ParallelLab1.dll
+/home/jakub/RiderProjects/ParallelLab1/ParallelLab1/bin/Debug/net8.0/ParallelLab1.pdb
+/home/jakub/RiderProjects/ParallelLab1/ParallelLab1/obj/Debug/net8.0/ParallelLab1.GeneratedMSBuildEditorConfig.editorconfig
+/home/jakub/RiderProjects/ParallelLab1/ParallelLab1/obj/Debug/net8.0/ParallelLab1.AssemblyInfoInputs.cache
+/home/jakub/RiderProjects/ParallelLab1/ParallelLab1/obj/Debug/net8.0/ParallelLab1.AssemblyInfo.cs
+/home/jakub/RiderProjects/ParallelLab1/ParallelLab1/obj/Debug/net8.0/ParallelLab1.csproj.CoreCompileInputs.cache
+/home/jakub/RiderProjects/ParallelLab1/ParallelLab1/obj/Debug/net8.0/ParallelLab1.dll
+/home/jakub/RiderProjects/ParallelLab1/ParallelLab1/obj/Debug/net8.0/refint/ParallelLab1.dll
+/home/jakub/RiderProjects/ParallelLab1/ParallelLab1/obj/Debug/net8.0/ParallelLab1.pdb
+/home/jakub/RiderProjects/ParallelLab1/ParallelLab1/obj/Debug/net8.0/ParallelLab1.genruntimeconfig.cache
+/home/jakub/RiderProjects/ParallelLab1/ParallelLab1/obj/Debug/net8.0/ref/ParallelLab1.dll

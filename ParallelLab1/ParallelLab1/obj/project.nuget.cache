@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ky0kt87ymYU=",
+  "success": true,
+  "projectFilePath": "/home/jakub/RiderProjects/ParallelLab1/ParallelLab1/ParallelLab1.csproj",
+  "expectedPackageFiles": [
+    "/home/jakub/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.30/microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
