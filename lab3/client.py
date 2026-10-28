@@ -18,6 +18,8 @@ def receive_all(sock):
         data += packet
     return pickle.loads(data)
 
+# tu kod edge_filter
+
 def client_main():
     client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     client_socket.connect(('192.168.1.3', 2040))
